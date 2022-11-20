@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlue">#A5CAED</color>
+    <color name="colorGreen">#A1D6AE</color>
+    <color name="colorRed">#F49585</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorYellow">#FFD885</color>
+    <string name="app_name">NotePad</string>
+    <string name="black_title">黑色</string>
+    <string name="blue_title">蓝色</string>
+    <string name="button_ok">OK</string>
+    <string name="error_message">Error loading note</string>
+    <string name="error_title">Error</string>
+    <string name="font10">10</string>
+    <string name="font16">16</string>
+    <string name="font24">24</string>
+    <string name="font_color">字体颜色</string>
+    <string name="font_size">字体大小</string>
+    <string name="live_folder_name">记事本</string>
+    <string name="menu_add">新的笔记</string>
+    <string name="menu_color">MenuColor</string>
+    <string name="menu_copy">复制</string>
+    <string name="menu_delete">删除笔记</string>
+    <string name="menu_open">打开笔记</string>
+    <string name="menu_paste">粘贴</string>
+    <string name="menu_revert">Revert changes</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_sort">笔记排序</string>
+    <string name="menu_sort1">按修改时间排序</string>
+    <string name="menu_sort2">按创建时间排序</string>
+    <string name="menu_sort3">按颜色排序</string>
+    <string name="nothing_to_save">There is nothing to save</string>
+    <string name="red_title">red</string>
+    <string name="resolve_edit">Edit note</string>
+    <string name="resolve_title">编辑笔记题目</string>
+    <string name="search_note">查询笔记</string>
+    <string name="text_title">Title:</string>
+    <string name="title_create">新的笔记</string>
+    <string name="title_edit">Edit: %1$s</string>
+    <string name="title_edit_title">Note title:</string>
+    <string name="title_notes_list">记事本</string>
+</resources>
