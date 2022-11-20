@@ -476,13 +476,13 @@ public class NoteColor extends Activity {
 ```
 #### 实验结果
 
-按颜色排序
+按颜色排序<br>
 ![9.png](./image/p9.png)
 
-按修改时间排序
+按修改时间排序<br>
 ![10.png](./image/p10.png)
 
-按创建时间排序
+按创建时间排序<br>
 ![11.png](./image/p11.png)
 
 ### 4、笔记内容可以修改字体大小，颜色
