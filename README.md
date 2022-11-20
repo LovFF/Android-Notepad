@@ -285,7 +285,7 @@ public class MyCursorAdapter extends SimpleCursorAdapter {
 }
 ```
 5、在NoteList.java中的PORJECTION里增加相应字段
-！！！注意这里增加了相应字段的时候需要卸载app再重新运行，不能直接调试，否则一直招不到错误
+！！！注意这里增加了相应字段的时候需要卸载app再重新运行，不能直接调试，否则一直找不到错误
 
 6、将SimpleCursorAdapter改为使用MyCursorAdapter
 
